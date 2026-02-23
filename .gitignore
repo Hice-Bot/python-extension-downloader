@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Downloaded extension directories (e.g. extension_aapbdbdomjkkjkaonhjkkikimpobigie)
+extension_*/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
